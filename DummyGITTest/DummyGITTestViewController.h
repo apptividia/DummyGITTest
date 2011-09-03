@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+//AAA BBB
+
 @interface DummyGITTestViewController : UIViewController {
     
 }
